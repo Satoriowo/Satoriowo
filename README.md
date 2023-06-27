@@ -1,22 +1,11 @@
 <h1 align="center"> Hello world 👋, I am Katherine Hernández</h1>
-<h3 align="center">I'm 18 years old and a computer science student</h3>
+<h3 align="center">I'm 18 years old computer science student</h3>
 
-********
-- 🌱 I’m currently learning JavaScript <img align="in-row" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+- 🌱 I’m currently learning JavaScript 
+- 🍄 Pronouns: He/She/they 
 - 🛸 I like astronomy and astrophysics
 - 💻 I am into Data Science, Machine Learning and Web Development
+******
 
-<!--
-**Satoriowo/Satoriowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>📬 Get in touch</h3>
+- Instagram [who.is.newt](https://www.instagram.com/who.is.newt/)
