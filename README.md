@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hello world 👋, I am Katherine Hernández</h1>
+<h3 align="center">I'm 18 years old and a computer science student</h3>
+
+********
+- 🌱 I’m currently learning JavaScript <img align="in-row" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+- 🛸 I like astronomy and astrophysics
+- 💻 I am into Data Science, Machine Learning and Web Development
 
 <!--
 **Satoriowo/Satoriowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
