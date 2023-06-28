@@ -25,5 +25,6 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satoriowo&show_icons=true&theme=merko&rank_icon=github)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satoriowo&hide_progress=true&theme=merko)
 
-### 🎧 Spotify playing
+<! -- ### 🎧 Spotify playing
   [<img src="https://spotify-readme-flame.vercel.app/api/spotify" alt="Spotify Playing" width="425" />](https://open.spotify.com/user/Newt-on1415)
+-->
