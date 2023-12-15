@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 🍄 Pronouns: He/She/they 
 - 🛸 I like astronomy and astrophysics
-- 💻 I am into Data Science, Machine Learning and Web Development
+- 💻 I am into Web Development
 
 
 <div align="left">
