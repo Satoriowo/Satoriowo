@@ -1,8 +1,8 @@
 <h1 align="center"> Hello world 👋, I am Katherine Hernández</h1>
 <h3 align="center">I'm 18 years old computer science student</h3>
 
-- 🌱 I’m currently learning JavaScript 
-- 🍄 Pronouns: He/She/they 
+- 🌱 I’m currently learning .... 
+- 🍄 Pronouns: She/Her
 - 🛸 I like astronomy and astrophysics
 - 💻 I am into Web Development
 
